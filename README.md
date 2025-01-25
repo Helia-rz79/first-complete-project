@@ -1,5 +1,5 @@
 # first-complete-project
-**😊If you have a lot of information to display on your site, why don't you use my accordion menu**
+
 
 ![5](https://github.com/user-attachments/assets/9f62756a-0b19-4d1d-8f9b-e10f78fc85ae)
 
